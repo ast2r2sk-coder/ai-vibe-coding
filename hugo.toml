@@ -4,7 +4,10 @@ title = '바이브 코딩 랩'
 theme = 'PaperMod'
 
 [params]
-    env = 'production'
+    googleAdSenseAccount = "ca-pub-your-id-here"
+    analytics = "UA-your-analytics-id-here"
+    defaultContentLanguage = "ko"
+    displayFullContent = true    env = 'production'
     title = '바이브 코딩 랩'
     description = '비개발자를 위한 AI 트렌드와 바이브 코딩 실전 가이드'
     author = '죠죠 & 별표'
