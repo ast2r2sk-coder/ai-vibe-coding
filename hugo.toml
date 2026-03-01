@@ -1,0 +1,18 @@
+baseURL = 'https://asterisk.github.io/'
+languageCode = 'ko-kr'
+title = '바이브 코딩 랩'
+theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    title = '바이브 코딩 랩'
+    description = '비개발자를 위한 AI 트렌드와 바이브 코딩 실전 가이드'
+    author = '죠죠 & 별표'
+    
+    [params.homeInfoParams]
+        Title = "바이브 코딩 랩 (Vibe Coding Lab) 😺"
+        Content = "코드 한 줄 몰라도 AI와 대화하며 소프트웨어를 만들고 비즈니스를 혁신하는 곳입니다."
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/asterisk"

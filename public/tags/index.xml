@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on 바이브 코딩 랩</title>
+    <link>https://asterisk.github.io/tags/</link>
+    <description>Recent content in Tags on 바이브 코딩 랩</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 01 Mar 2026 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://asterisk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://asterisk.github.io/tags/ai/</link>
+      <pubDate>Sun, 01 Mar 2026 09:00:00 +0900</pubDate>
+      <guid>https://asterisk.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vibe Coding</title>
+      <link>https://asterisk.github.io/tags/vibe-coding/</link>
+      <pubDate>Sun, 01 Mar 2026 09:00:00 +0900</pubDate>
+      <guid>https://asterisk.github.io/tags/vibe-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://asterisk.github.io/tags/welcome/</link>
+      <pubDate>Sun, 01 Mar 2026 09:00:00 +0900</pubDate>
+      <guid>https://asterisk.github.io/tags/welcome/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
